@@ -66,6 +66,3 @@ This dashboard provides a comprehensive view of employee attrition trends and hi
 ---
 
 
-- LinkedIn: Add Your LinkedIn Profile Link
-- Portfolio: Add Your Portfolio Website Link
-- GitHub: Add Your GitHub Profile Link
